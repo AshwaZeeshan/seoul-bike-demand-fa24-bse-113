@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "seoul-bike-demand"
+version = "1.0.0"
+description = ""
+authors = ["Shifa Zeeshan"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.14"
+streamlit = "1.64.0"
+pandas = "3.0.1"
+numpy = "2.3.5"
+scikit-learn = "1.9.1"
+joblib = "1.6.0"
